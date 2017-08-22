@@ -9,5 +9,6 @@ import java.io.Serializable;
 public class FoodData implements Serializable{
 
     // 데이터를 수정하자
+    // 아아아아
 
 }
